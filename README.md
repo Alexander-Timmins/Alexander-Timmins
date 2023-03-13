@@ -10,4 +10,4 @@ Web Development | Communication Skills | Web Design | Team work | CRM | System a
 
 TECHNICAL SKILLS 
 
-JavaScript | HTML | SQL | WordPress | CRM | Trello | Sage | Salesforce via trailhead | InfusionSoft | CSS | React | Github
+JavaScript | HTML | SQL | WordPress | CRM | Trello | Sage | Salesforce via trailhead | InfusionSoft | CSS | React | Github | React-Native | Mongoose | MongoDB | Azure
